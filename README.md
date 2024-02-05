@@ -1,2 +1,2 @@
 # Pong-Game
-daily challenge: Creat a simple pong game in python using OOP
+# daily challenge: Creat a simple pong game in python using 
